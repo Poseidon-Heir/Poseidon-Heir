@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @poisedonheir
+- 👋 Hi, I’m @poseidonheir
 - 👀 I’m interested in creating a personal database
-- 🌱 I’m currently learning  MongoDB
+- 🌱 I’m currently working as an intern
 
 -Thanks for reading ,Good day to you.
 
