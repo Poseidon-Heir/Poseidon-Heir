@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @poseidonheir
-- 👀 I’m interested in creating a personal database
-- 🌱 I’m currently working as an intern
+- 👀 I’m interested in creating a open-source projects that positively impact the world.
+- 🌱 I’m currently a happy programmer.
 
 -Thanks for reading ,Good day to you.
 
